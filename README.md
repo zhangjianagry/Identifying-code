@@ -10,10 +10,8 @@ usage:
 
 
 
-the accurate is just 60%,so there is something to be done:
+The accurate is just 60%,so there is something to be done:
 
 1.I only use the 10000 pics, so maybe it's need more pics.
-
 2.The architecture for cnn may can be adjusted.
-
-3. There are also some problems in the cnn.py, need to fix it.
+3.There are also some problems in the cnn.py, need to fix it.
