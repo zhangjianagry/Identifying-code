@@ -16,4 +16,4 @@ The accurate is just 60%,so there is something to be done:
 
 2.Maybe we can adjust the architecture of cnn.
 
-3.The problems in the cnn.py to fix it.
+3.The problems in the cnn.py to fix.
